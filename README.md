@@ -1,4 +1,4 @@
-# Hello World!, I'm Youssef, an Egyptian Full Stack Developer lives in Germany 👋🏼:
+# Hello World!, I'm Youssef, an Egyptian web developer living in Germany. 👋🏼:
 
 🛜 [MyWebSite](https://youssefelezaby.vercel.app)<br>👨🏼‍🎓 studied computer science at MSA university and Greenwich university<br>👨🏼‍💻 working as a Full Stack Developer/ Product Manager
 
